@@ -21,3 +21,20 @@ Technologies I'm learning:
 - Terraform
 - CI/CD
 - Kubernetes
+
+  ## AWS Cloud Practitioner Progress
+
+### Module 1 — Introduction to the Cloud
+Status: ✅ Completed
+Assessment: 88%
+Date:19th August 2026
+
+Key concepts:
+- Cloud computing
+- Client-server model
+- Pay-as-you-go
+- Cloud deployment models
+- AWS Global Infrastructure
+- Regions
+- Availability Zones
+- Shared Responsibility Model
